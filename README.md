@@ -1,24 +1,3 @@
 # vuecliapp
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+这是使用vuecil 脚手架 前后台的综合项目 
+### 2019/11/12日将前端的登录注册写完
